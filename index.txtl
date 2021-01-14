@@ -1,0 +1,35 @@
+    TextLink 0.1 Homepage
+    TextLink is a web protocol for two types of people:
+    
+    - people who want to share there ideas with the world, but don't know HTML
+    - people who are frusterated over ads slowing down webpages
+
+    The Interface
+    TextLink runs in the terminal. once you have installed it, you can run ~> textlink to run it
+    this is the output:
+    Welcome to The TextLink 0.1 Client!
+
+    Enter Command (or type help):
+    
+    to run the sample code, type code
+    you will see this
+   
+    Enter Command (or type help): code
+    Running Dev Code....
+
+    Dogs Are Cute
+    [0] Learn More 
+
+    [1] Learn More 
+
+    [2] Learn More 
+
+    [3] Cool Stuff
+    
+    now to go to a link, you look at the webpage, you find the link number for the one you want to go to, for example if you want to go to Cool Stuff
+    the number would be 3, next type  link (link number)  so if i wanted to go to cool stuff, i would type link 3
+    now, going to a url
+    that would be 
+    go url
+    so if i wanted to go to this site in textlink, i would say  go leomehraban.github.io/textlinksite/index.txtl 
+    
